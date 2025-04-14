@@ -31,4 +31,5 @@ Contact form (non-functional/demo)
 Testimonials section
 Featured products section
 
-# Demo Video
+# Linkedln Profile and Demo Video:
+https://www.linkedin.com/posts/mrunali-patil-39bb3730a_just-wrapped-up-my-project-as-web-developer-activity-7317560629580500992-zfxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE7ViGcBP8aOwIbqSGzeN1pLHqMFCUMIYd0
